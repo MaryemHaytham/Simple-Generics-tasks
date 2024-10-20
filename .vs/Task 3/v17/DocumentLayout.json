@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Backend\\Upsilling advanced .net\\Tasks\\Task 3\\Task 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{986891B8-FE6E-4674-AC26-DE795861F890}|Task 3.csproj|g:\\backend\\upsilling advanced .net\\tasks\\task 3\\task 3\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986891B8-FE6E-4674-AC26-DE795861F890}|Task 3.csproj|solutionrelative:cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986891B8-FE6E-4674-AC26-DE795861F890}|Task 3.csproj|g:\\backend\\upsilling advanced .net\\tasks\\task 3\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986891B8-FE6E-4674-AC26-DE795861F890}|Task 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986891B8-FE6E-4674-AC26-DE795861F890}|Task 3.csproj|g:\\backend\\upsilling advanced .net\\tasks\\task 3\\task 3\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986891B8-FE6E-4674-AC26-DE795861F890}|Task 3.csproj|solutionrelative:arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Backend\\Upsilling advanced .net\\Tasks\\Task 3\\Task 3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Backend\\Upsilling advanced .net\\Tasks\\Task 3\\Task 3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:42:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayUtils.cs",
+              "DocumentMoniker": "G:\\Backend\\Upsilling advanced .net\\Tasks\\Task 3\\Task 3\\ArrayUtils.cs",
+              "RelativeDocumentMoniker": "ArrayUtils.cs",
+              "ToolTip": "G:\\Backend\\Upsilling advanced .net\\Tasks\\Task 3\\Task 3\\ArrayUtils.cs",
+              "RelativeToolTip": "ArrayUtils.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:46:21.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cache.cs",
+              "DocumentMoniker": "G:\\Backend\\Upsilling advanced .net\\Tasks\\Task 3\\Task 3\\Cache.cs",
+              "RelativeDocumentMoniker": "Cache.cs",
+              "ToolTip": "G:\\Backend\\Upsilling advanced .net\\Tasks\\Task 3\\Task 3\\Cache.cs",
+              "RelativeToolTip": "Cache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:52:37.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
